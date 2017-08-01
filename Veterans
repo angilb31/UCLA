@@ -1,0 +1,2 @@
+xMayo <- -6.8272 + (0.0391*Mayo$age) + (0.1917*Mayo$smoking_status) + (1.3388*Mayo$lc_diagnosed_before_yn)+ (0.1274*Mayo$diam_long) + (1.0407*Mayo$margins) + (0.7838*Mayo$location)
+ 
